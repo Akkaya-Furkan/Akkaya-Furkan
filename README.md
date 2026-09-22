@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Furkan Akkaya
 
-<!--
-**Akkaya-Furkan/Akkaya-Furkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. student in Molecular Biology at Eskişehir Technical University, working at the intersection of structural bioinformatics and computer-aided drug discovery.
 
-Here are some ideas to get you started:
+## Research interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Protein–ligand docking and virtual screening
+- Molecular dynamics simulations and trajectory analysis
+- Structural bioinformatics and protein modelling
+- Reproducible Python workflows for computational research
+
+## Tools
+
+Python · Bash · Git · Linux · GROMACS · OpenMM · AutoDock Vina · RDKit · Open Babel · PyMOL
+
+## Background
+
+- M.Sc. in Molecular Biology — Eskişehir Technical University, ongoing
+- B.Sc. in Biology — Eskişehir Technical University
+- Wet-lab experience in molecular cloning, recombinant protein expression and affinity purification
+
+## Academic profile
+
+[ORCID: 0009-0002-7549-4976](https://orcid.org/0009-0002-7549-4976)
